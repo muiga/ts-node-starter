@@ -1,34 +1,20 @@
 {
-  "name": "node-ts-starter-template",
+  "name": "ts-node-starter",
   "version": "1.5.4",
   "description": "Node starter template with TypeScript",
   "main": "dist/src/index.js",
   "types": "dist/src/index.d.ts",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jaspenlind/node-ts-starter-template.git"
+    "url": "https://github.com/muiga/ts-node-starter.git"
   },
-  "keywords": [
-    "starter",
-    "node",
-    "typescript",
-    "typedoc",
-    "ts-jest",
-    "eslint",
-    "hooks",
-    "commitlint",
-    "husky",
-    "prettier",
-    "coveralls",
-    "codacy",
-    "vscode"
-  ],
-  "author": "jaspenlind",
+  "keywords": [],
+  "author": "muiga",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jaspenlind/node-ts-starter-template/issues"
+    "url": "https://github.com/muiga/ts-node-starter/issues"
   },
-  "homepage": "https://github.com/jaspenlind/node-ts-starter-template#readme",
+  "homepage": "https://github.com/muiga/ts-node-starter#readme",
   "files": [
     "dist/src/*"
   ],
